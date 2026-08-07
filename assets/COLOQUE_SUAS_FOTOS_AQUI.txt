@@ -1,0 +1,3 @@
+Pasta reservada para as fotos reais da barbearia (hero, galeria etc.).
+Depois de colocar os arquivos aqui, troque os blocos placeholder em
+index.html (.hero__photo e .gallery__item) por tags <img src="assets/nome-do-arquivo.jpg" alt="...">.
